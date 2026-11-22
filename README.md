@@ -6,6 +6,8 @@
 
 **当前版本：** [v0.3.3 预览版](https://github.com/OBLPlife/Prototype-Modern-Compatibility/releases/tag/v0.3.3)
 
+汉化补丁请移步：[Prototype-Chinese](https://github.com/OBLPlife/Prototype-Chinese)
+
 ## 游戏截图
 
 ![《虐杀原形》游戏截图](screenshots/10150_103.jpg)
