@@ -6,6 +6,8 @@ A modern compatibility patch for the PC version of **Prototype (2009)**, focused
 
 **Current release:** [v0.3.3 Preview](https://github.com/OBLPlife/Prototype-Modern-Compatibility/releases/tag/v0.3.3)
 
+Chinese localization patch: [Prototype-Chinese](https://github.com/OBLPlife/Prototype-Chinese)
+
 ## Screenshots
 
 ![Prototype (2009) in-game screenshot](screenshots/10150_103.jpg)
