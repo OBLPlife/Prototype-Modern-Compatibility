@@ -2,11 +2,9 @@
 
 # Prototype (2009) Modern Compatibility Patch
 
-An unofficial modern compatibility patch for the PC version of **Prototype (2009)**, focused on startup compatibility, modern resolutions, display modes, stability, and selected high-framerate gameplay issues.
+A modern compatibility patch for the PC version of **Prototype (2009)**, focused on startup compatibility, modern resolutions, display modes, stability, and selected high-framerate gameplay issues.
 
 **Current release:** [v0.3.3 Preview](https://github.com/OBLPlife/Prototype-Modern-Compatibility/releases/tag/v0.3.3)
-
-This project is separate from localization and HD enhancement projects. It does not include the game itself or Chinese localization content.
 
 ## Screenshots
 
@@ -104,7 +102,7 @@ Output files are written to `build/`:
 
 ## License
 
-This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), allowing noncommercial use, modification, and distribution. **Unauthorized commercial use and resale are prohibited.** The original game and third-party components remain subject to their respective licenses.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), allowing noncommercial use, modification, and distribution. **Unauthorized commercial use and resale are prohibited.**
 
 ## Important Notice
 
