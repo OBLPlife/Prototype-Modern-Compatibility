@@ -1,4 +1,4 @@
-[简体中文](README.md) | [English](README_EN.md)
+[中文](README.md) | [English](README_EN.md)
 
 # 虐杀原形（2009）现代兼容补丁
 
@@ -98,8 +98,6 @@
 | `vendor/` | Python 嵌入式运行环境 |
 | `build.ps1` | Windows 构建脚本 |
 
-## 注意事项与反馈
+#### 注意事项
 
-**当前版本为预览版，尚未完成全面测试，可能仍存在未知问题。**
-
-如遇到闪退、画面异常、操作问题或其他错误，欢迎通过 [GitHub Issues](https://github.com/OBLPlife/Prototype-Modern-Compatibility/issues) 反馈。
+**当前版本为预览版，可能仍存在未知问题。**
