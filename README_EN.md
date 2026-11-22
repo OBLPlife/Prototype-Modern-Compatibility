@@ -1,4 +1,4 @@
-[简体中文](README.md) | [English](README_EN.md)
+[中文](README.md) | [English](README_EN.md)
 
 # Prototype (2009) Modern Compatibility Patch
 
@@ -98,8 +98,6 @@ Output files are written to `build/`:
 | `vendor/` | Python embeddable runtime |
 | `build.ps1` | Windows build script |
 
-## Preview Notice & Feedback
+#### Important Notice
 
-**This is a preview release. Comprehensive testing is not yet complete, and unknown issues may still exist.**
-
-Report crashes, graphical glitches, input issues, or other unexpected behavior through [GitHub Issues](https://github.com/OBLPlife/Prototype-Modern-Compatibility/issues).
+**This is a preview release. Unknown issues may still exist.**
