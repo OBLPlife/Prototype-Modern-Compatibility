@@ -102,6 +102,6 @@ Output files are written to `build/`:
 
 This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), allowing noncommercial use, modification, and distribution. **Unauthorized commercial use and resale are prohibited.** The original game and third-party components remain subject to their respective licenses.
 
-#### Important Notice
+## Important Notice
 
 **This is a preview release. Unknown issues may still exist.**
