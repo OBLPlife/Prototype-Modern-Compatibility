@@ -1,0 +1,3 @@
+LIBRARY PrototypeModern
+EXPORTS
+    PM_Initialize=_PM_Initialize@12
