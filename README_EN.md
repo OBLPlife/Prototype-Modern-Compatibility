@@ -8,6 +8,10 @@ An unofficial modern compatibility patch for the PC version of **Prototype (2009
 
 This project is separate from localization and HD enhancement projects. It does not include the game itself or Chinese localization content.
 
+## Screenshots
+
+![Prototype (2009) in-game screenshot](screenshots/10150_103.jpg)
+
 ## Installation & Restoration
 
 **Install**
