@@ -71,7 +71,7 @@ The patch includes local performance diagnostics. On eligible fresh installation
 
 Diagnostic log directory: `%LOCALAPPDATA%\PrototypeModern\Performance`
 
-Individual log files have size limits. Check logs for personal information before sharing them in an issue report.
+Individual log files have size limits.
 
 ## Building from Source
 
